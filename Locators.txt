@@ -1,0 +1,10 @@
+		Name								Locator
+Link Careers				//a[@class = 'top-navigation__item-link js-op' and normalize-space()='Careers']
+Form Search					new_form_job_search-keyword
+Locations						.recruiting-search__location
+Remote option				remote
+Button submit				//button[@type='submit']
+Search Icon					//span[@class = 'search-icon dark-icon header-search__search-icon']
+Search panel				//div[contains(@class, 'header-search__panel')]//input[@name = 'q']
+Button in panel			//span [@class= 'bth-text-layer']
+Searched elements		.search-results__title-link
